@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    padding-top: 170px;
+}
+.ms-auto{
+    margin-left: auto !important;
+}
+section .container-fluid{
+    padding: 0% 10% 0% !important;
+}
+.navbar-brand img{
+    width: 80px;
+    border-radius: 50px;
+}
+.custom-row1{
+    max-width: 82%;
+    margin: auto;
+    text-align: left;
+}
+.row-1{
+    padding: 6% 2% 6% 6.5%;
+}
+.title{
+    font-size: 3.41rem;
+    padding: 10px 10px 10px 0;
+    font-weight: 800;
+}
+.row-1 p{
+    font-size: 1.5rem;
+    padding: 5px 5px 5px 0;
+}
+.money-1{
+    width: 620px;
+    position: relative;
+    right: 50px;
+    top: 8.5px;
+}
+ul li{
+    padding: 0 15px;
+}
+.lia{
+    font-size: 1.1rem;
+}
+/* services section */
+.services{
+    margin-top: 35px;
+    padding: 40px;
+    text-align: center;
+    background-color: #FAF9F6;
+}
+.services-title{
+    color: #2a478a;
+    font-weight: 700;
+}
+
+.services-col{
+    /* background-color: red; */
+    padding: 50px;
+}
+.services-col{
+    /* background-color: red; */
+    padding: 50px;
+}.services-col h3{
+    /* background-color: red; */
+    margin-block: 13px;
+    color: #2a478a;
+    font-weight: 700;
+}
+.services-row{
+    padding: 1% 9%;
+}
+/* footer section */
+.footer h3{
+    font-size: 2.1rem;
+    font-weight: 500;
+    text-transform: capitalize;
+    line-height: 3rem;
+    text-align: center;
+}
+.socials{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
+}
+.socials li{
+    margin: 0 10px;
+}
+.socials a{
+    text-decoration: none;
+    color: #fff;
+    border: 1.1px solid white;
+    padding: 5px;
+    border-radius: 50%;
+}
+.socials a i{
+    font-size: 1.8rem;
+    width: 20px;
+    transition: color .4s ease;
+}
+.socials a:hover i{
+    color: aqua;
+}
+.footer-socials{
+    max-width: 31.25rem;
+    margin-left: 24.0625rem;
+}
+.footer{
+    margin: 60px;
+}
